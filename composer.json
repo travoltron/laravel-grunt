@@ -1,7 +1,7 @@
 {
     "name": "travoltron/laravel-grunt",
     "description": "Asset manangement package for Laravel 4 using the power of Grunt & Bower",
-    "homepage": "https://github.com/JasonMortonNZ/laravel-grunt",
+    "homepage": "https://github.com/travoltron/laravel-grunt",
     "version": "0.0.1",
     "authors": [
     {
